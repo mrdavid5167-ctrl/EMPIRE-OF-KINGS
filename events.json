@@ -1,0 +1,22 @@
+[
+  {
+    "id": "racing",
+    "name": "Racing Event",
+    "minute": 0
+  },
+  {
+    "id": "time_trial",
+    "name": "Time Trial",
+    "minute": 15
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball Challenge",
+    "minute": 30
+  },
+  {
+    "id": "skill",
+    "name": "Skill Challenge",
+    "minute": 45
+  }
+]

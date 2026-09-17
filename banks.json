@@ -1,0 +1,22 @@
+[
+  {
+    "id": "bank_1",
+    "name": "Empire National Bank",
+    "prefix": "10"
+  },
+  {
+    "id": "bank_2",
+    "name": "Royal City Bank",
+    "prefix": "20"
+  },
+  {
+    "id": "bank_3",
+    "name": "United Capital Bank",
+    "prefix": "30"
+  },
+  {
+    "id": "bank_4",
+    "name": "Metropolitan Bank",
+    "prefix": "40"
+  }
+]

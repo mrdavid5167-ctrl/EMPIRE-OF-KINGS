@@ -1,0 +1,67 @@
+[
+  {
+    "id": "black_vipers",
+    "name": "Black Vipers",
+    "type": "crime"
+  },
+  {
+    "id": "red_kings",
+    "name": "Red Kings",
+    "type": "crime"
+  },
+  {
+    "id": "shadow_syndicate",
+    "name": "Shadow Syndicate",
+    "type": "crime"
+  },
+  {
+    "id": "iron_wolves",
+    "name": "Iron Wolves",
+    "type": "crime"
+  },
+  {
+    "id": "night_owls",
+    "name": "Night Owls",
+    "type": "crime"
+  },
+  {
+    "id": "golden_skulls",
+    "name": "Golden Skulls",
+    "type": "crime"
+  },
+  {
+    "id": "army",
+    "name": "Army",
+    "type": "government"
+  },
+  {
+    "id": "police",
+    "name": "Police",
+    "type": "government"
+  },
+  {
+    "id": "fsb",
+    "name": "FSB",
+    "type": "government"
+  },
+  {
+    "id": "mia",
+    "name": "MIA",
+    "type": "government"
+  },
+  {
+    "id": "hospital",
+    "name": "Hospital",
+    "type": "government"
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "type": "government"
+  },
+  {
+    "id": "government",
+    "name": "Government",
+    "type": "government"
+  }
+]
