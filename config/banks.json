@@ -1,22 +1,18 @@
 [
   {
-    "id": "bank_1",
-    "name": "Empire National Bank",
-    "prefix": "10"
+    "id": "bank_01",
+    "name": "Supreme Bank"
   },
   {
-    "id": "bank_2",
-    "name": "Royal City Bank",
-    "prefix": "20"
+    "id": "bank_02",
+    "name": "Empire Bank"
   },
   {
-    "id": "bank_3",
-    "name": "United Capital Bank",
-    "prefix": "30"
+    "id": "bank_03",
+    "name": "Royal Bank"
   },
   {
-    "id": "bank_4",
-    "name": "Metropolitan Bank",
-    "prefix": "40"
+    "id": "bank_04",
+    "name": "Capital Bank"
   }
 ]
