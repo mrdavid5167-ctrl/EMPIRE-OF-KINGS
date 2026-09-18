@@ -1,0 +1,162 @@
+[
+  {
+    "id": "racing",
+    "name": "Racing Event",
+    "minute": 0,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 15000,
+        "seCoins": 100
+      },
+      "second": {
+        "money": 10000,
+        "seCoins": 60
+      },
+      "third": {
+        "money": 5000,
+        "seCoins": 30
+      }
+    }
+  },
+  {
+    "id": "time_trial",
+    "name": "Time Trial",
+    "minute": 15,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 12000,
+        "seCoins": 80
+      },
+      "second": {
+        "money": 8000,
+        "seCoins": 50
+      },
+      "third": {
+        "money": 4000,
+        "seCoins": 25
+      }
+    }
+  },
+  {
+    "id": "basketball",
+    "name": "Basketball Challenge",
+    "minute": 30,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 10000,
+        "seCoins": 70
+      },
+      "second": {
+        "money": 7000,
+        "seCoins": 45
+      },
+      "third": {
+        "money": 3500,
+        "seCoins": 20
+      }
+    }
+  },
+  {
+    "id": "skill",
+    "name": "Skill Challenge",
+    "minute": 45,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 10000,
+        "seCoins": 70
+      },
+      "second": {
+        "money": 7000,
+        "seCoins": 45
+      },
+      "third": {
+        "money": 3500,
+        "seCoins": 20
+      }
+    }
+  },
+  {
+    "id": "football",
+    "name": "Football Challenge",
+    "minute": 5,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 12000,
+        "seCoins": 80
+      },
+      "second": {
+        "money": 8000,
+        "seCoins": 50
+      },
+      "third": {
+        "money": 4000,
+        "seCoins": 25
+      }
+    }
+  },
+  {
+    "id": "obstacle",
+    "name": "Obstacle Course",
+    "minute": 20,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 11000,
+        "seCoins": 75
+      },
+      "second": {
+        "money": 7500,
+        "seCoins": 45
+      },
+      "third": {
+        "money": 3750,
+        "seCoins": 20
+      }
+    }
+  },
+  {
+    "id": "puzzle",
+    "name": "Puzzle Challenge",
+    "minute": 35,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 9000,
+        "seCoins": 60
+      },
+      "second": {
+        "money": 6000,
+        "seCoins": 40
+      },
+      "third": {
+        "money": 3000,
+        "seCoins": 20
+      }
+    }
+  },
+  {
+    "id": "seasonal",
+    "name": "Seasonal Tournament",
+    "minute": 50,
+    "durationSeconds": 600,
+    "rewards": {
+      "first": {
+        "money": 20000,
+        "seCoins": 150
+      },
+      "second": {
+        "money": 12500,
+        "seCoins": 90
+      },
+      "third": {
+        "money": 7500,
+        "seCoins": 50
+      }
+    }
+  }
+]

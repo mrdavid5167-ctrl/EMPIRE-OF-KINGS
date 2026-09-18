@@ -1,0 +1,29 @@
+[
+  {
+    "id": "city_intro",
+    "name": "Explore the City",
+    "optional": true,
+    "reward": {
+      "money": 2500,
+      "exp": 100
+    }
+  },
+  {
+    "id": "first_job",
+    "name": "Complete Your First Job",
+    "optional": true,
+    "reward": {
+      "money": 3000,
+      "exp": 100
+    }
+  },
+  {
+    "id": "game_center",
+    "name": "Visit the Game Center",
+    "optional": true,
+    "reward": {
+      "money": 2000,
+      "seCoins": 10
+    }
+  }
+]

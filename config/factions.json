@@ -1,0 +1,223 @@
+[
+  {
+    "id": "black_vipers",
+    "name": "Black Vipers",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "red_kings",
+    "name": "Red Kings",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "shadow_syndicate",
+    "name": "Shadow Syndicate",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "iron_wolves",
+    "name": "Iron Wolves",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "night_owls",
+    "name": "Night Owls",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "golden_skulls",
+    "name": "Golden Skulls",
+    "type": "crime",
+    "ranks": {
+      "10": "Leader",
+      "9": "Deputy",
+      "8": "Trusted Member",
+      "7": "Senior Member",
+      "6": "Member",
+      "5": "Member",
+      "4": "Member",
+      "3": "Member",
+      "2": "Member",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "army",
+    "name": "Army",
+    "type": "government",
+    "ranks": {
+      "10": "Commander",
+      "9": "Deputy Commander",
+      "8": "Colonel",
+      "7": "Major",
+      "6": "Captain",
+      "5": "Lieutenant",
+      "4": "Sergeant",
+      "3": "Corporal",
+      "2": "Private First Class",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "police",
+    "name": "Police",
+    "type": "government",
+    "ranks": {
+      "10": "Chief",
+      "9": "Deputy Chief",
+      "8": "Commissioner",
+      "7": "Superintendent",
+      "6": "Inspector",
+      "5": "Sergeant",
+      "4": "Corporal",
+      "3": "Officer",
+      "2": "Cadet",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "fsb",
+    "name": "FSB",
+    "type": "government",
+    "ranks": {
+      "10": "Director",
+      "9": "Deputy Director",
+      "8": "Chief Officer",
+      "7": "Senior Officer",
+      "6": "Officer",
+      "5": "Field Officer",
+      "4": "Agent",
+      "3": "Junior Agent",
+      "2": "Trainee",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "mia",
+    "name": "MIA",
+    "type": "government",
+    "ranks": {
+      "10": "Director",
+      "9": "Deputy Director",
+      "8": "Chief",
+      "7": "Senior Investigator",
+      "6": "Investigator",
+      "5": "Inspector",
+      "4": "Officer",
+      "3": "Junior Officer",
+      "2": "Trainee",
+      "1": "Recruit"
+    }
+  },
+  {
+    "id": "hospital",
+    "name": "Hospital",
+    "type": "government",
+    "ranks": {
+      "10": "Chief Medical Officer",
+      "9": "Deputy CMO",
+      "8": "Department Head",
+      "7": "Senior Doctor",
+      "6": "Doctor",
+      "5": "Nurse",
+      "4": "Paramedic",
+      "3": "Medical Assistant",
+      "2": "Trainee",
+      "1": "Intern"
+    }
+  },
+  {
+    "id": "media",
+    "name": "Media",
+    "type": "government",
+    "ranks": {
+      "10": "Director",
+      "9": "Deputy Director",
+      "8": "Editor-in-Chief",
+      "7": "Senior Reporter",
+      "6": "Reporter",
+      "5": "Presenter",
+      "4": "Camera Operator",
+      "3": "Junior Reporter",
+      "2": "Trainee",
+      "1": "Intern"
+    }
+  },
+  {
+    "id": "government",
+    "name": "Government",
+    "type": "government",
+    "ranks": {
+      "10": "Head of Government",
+      "9": "Deputy Head",
+      "8": "Minister",
+      "7": "Director",
+      "6": "Department Head",
+      "5": "Senior Official",
+      "4": "Official",
+      "3": "Junior Official",
+      "2": "Trainee",
+      "1": "Intern"
+    }
+  }
+]
